@@ -3090,12 +3090,13 @@ h2.home-title span {
 }
 #portfolio-list li {
     position: relative;
+    float: left;
     overflow: hidden;
     display: inline-block;
     width: 50%;
     margin-left: -1px;
-    margin-bottom: -4px;
-    padding: 0;
+    margin-bottom: 0;
+    padding: 2px;
     text-align: center;
     -webkit-transition: all 0.5s;
     -moz-transition: all 0.5s;
